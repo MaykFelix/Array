@@ -1454,6 +1454,11 @@
     "regiao": "OESTE"
   },
   {
+    "setor": "Residencial Pilar dos Sonhos",
+    "regiao": "NORTE",
+    "rota": "D"
+  },
+  {
     "setor": "Ponta Negra",
     "regiao": "OESTE"
   },
@@ -1912,6 +1917,11 @@
     "regiao": "LESTE"
   },
   {
+    "setor": "Residencial Recanto dos Buritis",
+    "regiao": "LESTE",
+    "rota": "CONDOMINIOS"
+  },
+  {
     "setor": "Residencial Havai",
     "regiao": "LESTE"
   },
@@ -2062,7 +2072,8 @@
   },
   {
     "setor": "Parque Anhanguera",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "I"
   },
   {
     "setor": "Parque Anhanguera I",
