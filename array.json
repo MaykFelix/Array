@@ -701,7 +701,8 @@
   },
   {
     "setor": "Empresarial",
-    "regiao": "NOROESTE"
+    "regiao": "NOROESTE",
+    "rota" : "NOROESTE"
   },
   {
     "setor": "setor Estrela D\"Alva",
