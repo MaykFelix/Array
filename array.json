@@ -437,7 +437,8 @@
   },
   {
     "setor": "Nova Vila",
-    "regiao": "CENTRO OESTE"
+    "regiao": "CENTRO OESTE",
+    "rota": "leste universitário"
   },
   {
     "setor": "setor Norte Ferroviario",
@@ -652,8 +653,9 @@
     "regiao": "NOROESTE"
   },
   {
-    "setor": "da Vitoria",
-    "regiao": "NOROESTE"
+    "setor": "Da Vitoria",
+    "regiao": "NOROESTE",
+    "rota": "NOROESTE"
   },
   {
     "setor": "Barravento",
@@ -670,6 +672,11 @@
   {
     "setor": "setor Candida de Morais",
     "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Vila Candida",
+    "regiao": "NOROESTE",
+    "rota": "novo mundo"
   },
   {
     "setor": "Chacaras Maria Dilce",
@@ -925,7 +932,8 @@
   },
   {
     "setor": "Vila Mutirão",
-    "regiao": "NOROESTE"
+    "regiao": "NOROESTE",
+    "rota": "NOROESTE"
   },
   {
     "setor": "Vila Mutirao I",
