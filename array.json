@@ -557,6 +557,11 @@
     "regiao": "CENTRO OESTE"
   },
   {
+    "setor": "CENTRO OESTE",
+    "regiao": "CENTRO OESTE",
+    "rota": "CAMPINAS"
+  },
+  {
     "setor": "Vila Mooca",
     "regiao": "CENTRO OESTE"
   },
@@ -884,12 +889,12 @@
   },
   {
     "setor": "Residencial Recreio Panorama",
-    "regiao": "NOROESTE"
+    "regiao": "NOROESTE",
     "rota": "NOROESTE"
   },
   {
     "setor": "Recreio Panorama",
-    "regiao": "NOROESTE"
+    "regiao": "NOROESTE",
     "rota": "NOROESTE"
   },
   {
@@ -2551,7 +2556,8 @@
   },
   {
     "setor": "Vila Alvorada",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "I"
   },
   {
     "setor": "Vila Anchieta",
@@ -2607,4 +2613,4 @@
     "setor": "Condominio Anhanguera",
     "regiao": "SUDOESTE"
   }
-]
+];
