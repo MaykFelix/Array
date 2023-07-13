@@ -373,7 +373,8 @@
   },
   {
     "setor": "Cidade Jardim",
-    "regiao": "CENTRO OESTE"
+    "regiao": "CENTRO OESTE",
+    "rota": "I"
   },
   {
     "setor": "setor Coimbra",
@@ -1322,6 +1323,11 @@
     "regiao": "OESTE"
   },
   {
+    "setor": "Jardins das hortênsias",
+    "regiao": "OESTE",
+    "rota": "I"
+  },
+  {
     "setor": "Jardins do Cerrado II",
     "regiao": "OESTE"
   },
@@ -1363,7 +1369,13 @@
   },
   {
     "setor": "Vila Joao Vaz",
-    "regiao": "OESTE"
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Vila Joao Braz",
+    "regiao": "OESTE",
+    "rota": "D"
   },
   {
     "setor": "Junqueira",
@@ -1715,7 +1727,8 @@
   },
   {
     "setor": "Conjunto Fabiana",
-    "regiao": "LESTE"
+    "regiao": "LESTE",
+    "rota": "NOVO MUNDO"
   },
   {
     "setor": "Conjunto Palmares",
@@ -2004,6 +2017,11 @@
     "regiao": "LESTE"
   },
   {
+    "setor": "Loteamento Tupinamba dos Reis",
+    "regiao": "LESTE",
+    "rota": "novo mundo"
+  },
+  {
     "setor": "Vale das Brisas",
     "regiao": "LESTE"
   },
@@ -2220,7 +2238,8 @@
   },
   {
     "setor": "Jardim Europa",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "I"
   },
   {
     "setor": "Jardim Florenca",
@@ -2265,7 +2284,8 @@
   },
   {
     "setor": "Jardins Lisboa",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "R"
   },
   {
     "setor": "Linda Vista",
@@ -2526,7 +2546,8 @@
   },
   {
     "setor": "Vila Rosa",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "JARDIM AMERICA"
   },
   {
     "setor": "Vila Rezende",
