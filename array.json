@@ -546,7 +546,7 @@
     {"setor": "Jardim Ipanema", "regiao": "SUDOESTE"},
     {"setor": "Jardim Itaipú", "regiao": "SUDOESTE"},
     {"setor": "Jardim Madri", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Planalto", "regiao": "SUDOESTE"},
+    {"setor": "Jardim Planalto", "regiao": "SUDOESTE", "rota" : "I"},
     {"setor": "Jardim Presidente", "regiao": "SUDOESTE"},
     {"setor": "Jardim Sonia Maria", "regiao": "SUDOESTE"},
     {"setor": "Jardim Tancredo Neves", "regiao": "SUDOESTE"},
