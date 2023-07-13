@@ -981,7 +981,8 @@
   },
   {
     "setor": "Jardim Vitoria",
-    "regiao": "SUL"
+    "regiao": "SUL",
+    "rota": "NOVO MUNDO"
   },
   {
     "setor": "setor Marista",
@@ -1025,7 +1026,8 @@
   },
   {
     "setor": "Vila Maria Jose",
-    "regiao": "SUL"
+    "regiao": "SUL",
+    "rota": "JARDIM GOIAS"
   },
   {
     "setor": "Vila RedenCao",
@@ -1607,6 +1609,13 @@
     "setor": "Residencial Aldeia do Vale",
     "regiao": "LESTE"
   },
+
+  {
+    "setor": "Residencial Flamboyant",
+    "regiao": "LESTE",
+    "rota": "CONDOMINIOS"
+  },
+
   {
     "setor": "Alphaville Flamboyant",
     "regiao": "LESTE"
@@ -2008,6 +2017,7 @@
   {
     "setor": "Vila Morais",
     "regiao": "LESTE"
+    "rota": "LESTE UNIVERSITARIO"
   },
   {
     "setor": "Vila Pedroso",
