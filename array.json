@@ -872,12 +872,18 @@
     "regiao": "NOROESTE"
   },
   {
-    "setor": "Recreio Estrela D\"Alva",
+    "setor": "Recreio Estrela Dalva",
     "regiao": "NOROESTE"
+  },
+ {
+    "setor": "Residencial Recreio Panorama",
+    "regiao": "NOROESTE"
+    "rota":"NOROESTE"
   },
   {
     "setor": "Recreio Panorama",
     "regiao": "NOROESTE"
+    "rota":"NOROESTE"
   },
   {
     "setor": "Sitio recreio panorama",
