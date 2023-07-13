@@ -1422,6 +1422,11 @@
     "regiao": "OESTE"
   },
   {
+    "setor": "Parque Lozandes",
+    "regiao": "OESTE",
+    "rota": "MOVO MUNDO"
+  },
+  {
     "setor": "Parque Buriti",
     "regiao": "OESTE"
   },
@@ -1862,7 +1867,8 @@
   },
   {
     "setor": "Parque Acalanto",
-    "regiao": "LESTE"
+    "regiao": "LESTE",
+    "rota": "NOVO MUNDO"
   },
   {
     "setor": "Parque Atheneu",
@@ -2145,7 +2151,8 @@
   },
   {
     "setor": "Residencial Eldorado",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "R"
   },
   {
     "setor": "Eli Forte",
