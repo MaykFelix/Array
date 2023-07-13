@@ -156,7 +156,14 @@
   },
   {
     "setor": "Morada do Ipe",
-    "regiao": "NORTE"
+    "regiao": "NORTE",
+    "rota": "NOROESTE"
+
+  },
+  {
+    "setor": "Residencial Morada do Ipe",
+    "regiao": "NORTE",
+    "rota": "NOROESTE"
   },
   {
     "setor": "Morumbi",
@@ -875,20 +882,20 @@
     "setor": "Recreio Estrela Dalva",
     "regiao": "NOROESTE"
   },
- {
+  {
     "setor": "Residencial Recreio Panorama",
     "regiao": "NOROESTE"
-    "rota":"NOROESTE"
+    "rota": "NOROESTE"
   },
   {
     "setor": "Recreio Panorama",
     "regiao": "NOROESTE"
-    "rota":"NOROESTE"
+    "rota": "NOROESTE"
   },
   {
     "setor": "Sitio recreio panorama",
     "regiao": "NOROESTE",
-    "rota":"NOROESTE"
+    "rota": "NOROESTE"
   },
   {
     "setor": "Residencial Fortaleza",
@@ -1091,6 +1098,12 @@
     "regiao": "OESTE"
   },
   {
+    "setor": "Residencial Araguaia",
+    "regiao": "",
+    "rota": "CONDOMINIO"
+  },
+
+  {
     "setor": "Bairro das NaCoes",
     "regiao": "OESTE"
   },
@@ -1132,7 +1145,8 @@
   },
   {
     "setor": "Capuava Residencial Prive",
-    "regiao": "OESTE"
+    "regiao": "OESTE",
+    "rota": "D"
   },
   {
     "setor": "Carla Cristina",
@@ -1338,7 +1352,7 @@
     "regiao": "OESTE",
     "rota": "I"
   },
-      {
+  {
     "setor": "Jardins hortênsias",
     "regiao": "OESTE",
     "rota": "I"
@@ -1752,7 +1766,8 @@
   },
   {
     "setor": "Conjunto Riviera",
-    "regiao": "LESTE"
+    "regiao": "LESTE",
+    "rota": "NOVO MUNDO"
   },
   {
     "setor": "Goiânia Golfe Clube",
@@ -2298,6 +2313,7 @@
     "regiao": "SUDOESTE",
     "rota": "R"
   },
+
   {
     "setor": "Linda Vista",
     "regiao": "SUDOESTE"
@@ -2502,7 +2518,8 @@
   },
   {
     "setor": "setor Sudoeste",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "I"
   },
   {
     "setor": "Tres Marias",
@@ -2550,7 +2567,8 @@
   },
   {
     "setor": "Vila Lucy",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "I"
   },
   {
     "setor": "Vila Maua",
