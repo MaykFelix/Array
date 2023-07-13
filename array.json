@@ -1030,8 +1030,9 @@
     "rota": "JARDIM GOIAS"
   },
   {
-    "setor": "Vila RedenCao",
-    "regiao": "SUL"
+    "setor": "Vila Redencao",
+    "regiao": "SUL",
+    "rota": "JARDIM GOIAS",
   },
   {
     "setor": "Vila Santa Efigenia",
@@ -2286,7 +2287,8 @@
   },
   {
     "setor": "Parque Oeste Industrial",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "R",
   },
   {
     "setor": "Parque Santa Rita",
