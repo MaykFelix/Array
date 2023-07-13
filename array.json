@@ -1,6 +1,5 @@
 // SETOR REGIÃO
-
-export const ARRAY_SETOR_REGIAO = [
+[
     //NORTE
     {'Setor': 'Alice Barbosa', 'REGIÃO': 'NORTE'},
     {'Setor': 'Antonio Barbosa', 'REGIÃO': 'NORTE'},
