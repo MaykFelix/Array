@@ -376,7 +376,8 @@
   },
   {
     "setor": "setor Centro Oeste",
-    "regiao": "CENTRO OESTE"
+    "regiao": "CENTRO OESTE",
+       "rota": "CAMPINAS"
   },
   {
     "setor": "Cidade Jardim",
@@ -555,11 +556,6 @@
   {
     "setor": "Vila Monticelli",
     "regiao": "CENTRO OESTE"
-  },
-  {
-    "setor": "CENTRO OESTE",
-    "regiao": "CENTRO OESTE",
-    "rota": "CAMPINAS"
   },
   {
     "setor": "Vila Mooca",
