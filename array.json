@@ -377,7 +377,7 @@
   {
     "setor": "setor Centro Oeste",
     "regiao": "CENTRO OESTE",
-       "rota": "CAMPINAS"
+    "rota": "CAMPINAS"
   },
   {
     "setor": "Cidade Jardim",
@@ -698,7 +698,7 @@
   {
     "setor": "Empresarial",
     "regiao": "NOROESTE",
-    "rota" : "NOROESTE"
+    "rota": "NOROESTE"
   },
   {
     "setor": "setor Estrela D\"Alva",
