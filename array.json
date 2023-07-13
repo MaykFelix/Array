@@ -58,6 +58,7 @@
     {"setor": "Residencial das Acacias", "regiao": "NORTE"},
     {"setor": "Residencial dos Ipes", "regiao": "NORTE"},
     {"setor": "Residencial Guanabara", "regiao": "NORTE"},
+    {"setor": "Chacaras anhanguera", "regiao" : "", "rota": "D"},
     {"setor": "Residencial Italia", "regiao": "NORTE"},
     {"setor": "Santa Genoveva", "regiao": "NORTE"},
     {"setor": "Santa Genoveva II", "regiao": "NORTE"},
