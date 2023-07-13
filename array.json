@@ -1327,6 +1327,11 @@
     "regiao": "OESTE",
     "rota": "I"
   },
+      {
+    "setor": "Jardins hortênsias",
+    "regiao": "OESTE",
+    "rota": "I"
+  },
   {
     "setor": "Jardins do Cerrado II",
     "regiao": "OESTE"
@@ -2176,11 +2181,6 @@
     "regiao": "SUDOESTE"
   },
   {
-    "setor": "Residencial Eldorado",
-    "regiao": "SUDOESTE",
-    "rota": "R"
-  },
-  {
     "setor": "Eli Forte",
     "regiao": "SUDOESTE"
   },
@@ -2374,7 +2374,8 @@
   },
   {
     "setor": "Residencial Eldorado",
-    "regiao": "SUDOESTE"
+    "regiao": "SUDOESTE",
+    "rota": "R"
   },
   {
     "setor": "Residencial Escocia",
