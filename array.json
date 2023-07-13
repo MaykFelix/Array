@@ -1,5 +1,4 @@
 [
-    //NORTE
     {'Setor': 'Alice Barbosa', 'REGIÃO': 'NORTE'},
     {'Setor': 'Antonio Barbosa', 'REGIÃO': 'NORTE'},
     {'Setor': 'Antonio Carlos Pires', 'REGIÃO': 'NORTE'},
@@ -86,7 +85,6 @@
     {'Setor': 'Chacaras de Recreio Samambaia', 'REGIÃO': 'NORTE'},
     {'Setor': 'Estancia Vista Alegre', 'REGIÃO': 'NORTE'},
     {'Setor': 'Village Atalaia', 'REGIÃO': 'NORTE'},
-    // CENTRO OESTE
     {'Setor': 'Setor Aeroporto', 'REGIÃO': 'CENTRO OESTE'},
     {'Setor': 'Aeroviario', 'REGIÃO': 'CENTRO OESTE'},
     {'Setor': 'Setor Campinas', 'REGIÃO': 'CENTRO OESTE'},
@@ -161,7 +159,6 @@
     {'Setor': 'Yara', 'REGIÃO': 'CENTRO OESTE'},
     {'Setor': 'Bertim Belchior', 'REGIÃO': 'CENTRO OESTE'},
     {'Setor': 'Bertim Belchior II', 'REGIÃO': 'CENTRO OESTE'},
-    // NOROESTE
     {'Setor': 'Alto do Vale', 'REGIÃO': 'NOROESTE'},
     {'Setor': 'Anglo', 'REGIÃO': 'NOROESTE'},
     {'Setor': 'da Vitoria', 'REGIÃO': 'NOROESTE'},
@@ -238,7 +235,6 @@
     {'Setor': 'Marata Araguaia', 'REGIÃO': 'NOROESTE'},
     {'Setor': 'Residencial Marata', 'REGIÃO': 'NOROESTE'},
     {'Setor': 'Chacaras Hellou', 'REGIÃO': 'NOROESTE'},
-    // SUL
     {'Setor': 'Alto da Gloria', 'REGIÃO': 'SUL'},
     {'Setor': 'Areiao', 'REGIÃO': 'SUL'},
     {'Setor': 'Setor Bela Vista', 'REGIÃO': 'SUL'},
@@ -264,7 +260,6 @@
     {'Setor': 'Vila Sao Joao', 'REGIÃO': 'SUL'},
     {'Setor': 'Vila Sao Tomaz', 'REGIÃO': 'SUL'},
     {'Setor': 'Vila Teofilo Neto', 'REGIÃO': 'SUL'},
-    // OESTE
     {'Setor': '14 Bis', 'REGIÃO': 'OESTE'},
     {'Setor': 'Alto Boa Vista', 'REGIÃO': 'OESTE'},
     {'Setor': 'Ana Moraes', 'REGIÃO': 'OESTE'},
@@ -401,7 +396,6 @@
     {'Setor': 'Jardim Pampulha', 'REGIÃO': 'OESTE'},
     {'Setor': 'Setor das nacoes extensao', 'REGIÃO': 'OESTE'},
     {'Setor': 'Ytapua', 'REGIÃO': 'OESTE'},
-    // LESTE
     {'Setor': 'agua Branca', 'REGIÃO': 'LESTE'},
     {'Setor': 'Residencial Aldeia do Vale', 'REGIÃO': 'LESTE'},
     {'Setor': 'Alphaville Flamboyant', 'REGIÃO': 'LESTE'},
@@ -508,7 +502,6 @@
     {'Setor': 'Montes claros', 'REGIÃO': 'LESTE'},
     {'Setor': 'Fazenda Vau das Pombas', 'REGIÃO': 'LESTE'},
     {'Setor': 'Ville de France', 'REGIÃO': 'LESTE'},
-    // SUDOESTE
     {'Setor': 'Alphaville Residencial', 'REGIÃO': 'SUDOESTE'},
     {'Setor': 'Alto Oriente', 'REGIÃO': 'SUDOESTE'},
     {'Setor': 'Amin Camargo', 'REGIÃO': 'SUDOESTE'},
