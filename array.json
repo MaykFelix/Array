@@ -1,629 +1,2521 @@
-[
-    {"setor": "Alice Barbosa", "regiao": "NORTE"},
-    {"setor": "Antonio Barbosa", "regiao": "NORTE"},
-    {"setor": "Antonio Carlos Pires", "regiao": "NORTE"},
-    {"setor": "Asa Branca", "regiao": "NORTE"},
-    {"setor": "Atalaia", "regiao": "NORTE"},
-    {"setor": "Caraibas", "regiao": "NORTE"},
-    {"setor": "Felicidade", "regiao": "NORTE"},
-    {"setor": "Gentil Meireles", "regiao": "NORTE"},
-    {"setor": "Goiânia 2", "regiao": "NORTE"},
-    {"setor": "Granja Cruzeiro do Sul", "regiao": "NORTE"},
-    {"setor": "Guarema", "regiao": "NORTE"},
-    {"setor": "Hugo de Moraes", "regiao": "NORTE"},
-    {"setor": "Humaita", "regiao": "NORTE"},
-    {"setor": "Itanhanga", "regiao": "NORTE"},
-    {"setor": "Vila Itatiaia", "regiao": "NORTE"},
-    {"setor": "Itamaraca", "regiao": "NORTE"},
-    {"setor": "setor Jao", "regiao": "NORTE"},
-    {"setor": "Jardim Balneario Meia Ponte", "regiao": "NORTE"},
-    {"setor": "Jardim Bom Jesus", "regiao": "NORTE"},
-    {"setor": "Jardim Diamantina", "regiao": "NORTE"},
-    {"setor": "Jardim Gramado", "regiao": "NORTE"},
-    {"setor": "Jardim Guanabara", "regiao": "NORTE"},
-    {"setor": "Jardim Guanabara I", "regiao": "NORTE"},
-    {"setor": "Jardim Guanabara II", "regiao": "NORTE"},
-    {"setor": "Jardim Guanabara III", "regiao": "NORTE"},
-    {"setor": "Jardim Guanabara IV", "regiao": "NORTE"},
-    {"setor": "Conjunto Parque dos Eucaliptos", "regiao": "NORTE"},
-    {"setor": "Jardim Ipe", "regiao": "NORTE"},
-    {"setor": "Vila Jardim Pompeia", "regiao": "NORTE"},
-    {"setor": "Jardim Santa Cecilia", "regiao": "NORTE"},
-    {"setor": "Joao Paulo II", "regiao": "NORTE"},
-    {"setor": "Jose Viandeli", "regiao": "NORTE"},
-    {"setor": "Licardino Ney", "regiao": "NORTE"},
-    {"setor": "Mansoes do Campus", "regiao": "NORTE"},
-    {"setor": "Mansoes Goianas", "regiao": "NORTE"},
-    {"setor": "Maria Dilce", "regiao": "NORTE"},
-    {"setor": "Maria LourenCa", "regiao": "NORTE"},
-    {"setor": "Maria Rosa", "regiao": "NORTE"},
-    {"setor": "Morada do Bosque", "regiao": "NORTE"},
-    {"setor": "Morada do Ipe", "regiao": "NORTE"},
-    {"setor": "Morumbi", "regiao": "NORTE"},
-    {"setor": "Morada dos Sonhos", "regiao": "NORTE"},
-    {"setor": "Morada dos Sonhos II", "regiao": "NORTE"},
-    {"setor": "Sitio de Recreio Paraiso Tropical", "regiao": "NORTE"},
-    {"setor": "Nossa Morada", "regiao": "NORTE"},
-    {"setor": "Orlando de Morais", "regiao": "NORTE"},
-    {"setor": "Panorama Parque", "regiao": "NORTE"},
-    {"setor": "Parque Balneario", "regiao": "NORTE"},
-    {"setor": "Parque das Flores", "regiao": "NORTE"},
-    {"setor": "Parque das Nacoes", "regiao": "NORTE"},
-    {"setor": "Parque dos Cisnes", "regiao": "NORTE"},
-    {"setor": "Perim", "regiao": "NORTE"},
-    {"setor": "Pindorama", "regiao": "NORTE"},
-    {"setor": "Portal da Mata", "regiao": "NORTE"},
-    {"setor": "Progresso", "regiao": "NORTE"},
-    {"setor": "Residencial Balneario", "regiao": "NORTE"},
-    {"setor": "Residencial das Acacias", "regiao": "NORTE"},
-    {"setor": "Residencial dos Ipes", "regiao": "NORTE"},
-    {"setor": "Residencial Guanabara", "regiao": "NORTE"},
-    {"setor": "Chacaras anhanguera", "regiao" : "", "rota": "D"},
-    {"setor": "Residencial Italia", "regiao": "NORTE"},
-    {"setor": "Santa Genoveva", "regiao": "NORTE"},
-    {"setor": "Santa Genoveva II", "regiao": "NORTE"},
-    {"setor": "Sao Geraldo", "regiao": "NORTE"},
-    {"setor": "Vila Jardim Sao Judas Tadeu", "regiao": "NORTE"},
-    {"setor": "Sevene", "regiao": "NORTE"},
-    {"setor": "Shangri-la", "regiao": "NORTE"},
-    {"setor": "setor Urias Magalhaes", "regiao": "NORTE"},
-    {"setor": "setor Urias Magalhaes II", "regiao": "NORTE"},
-    {"setor": "Vale da Serra", "regiao": "NORTE"},
-    {"setor": "Residencial Bela Goiânia", "regiao": "NORTE"},
-    {"setor": "Residencial Elizene Santana", "regiao": "NORTE"},
-    {"setor": "Residencial Vale dos Sonhos", "regiao": "NORTE"},
-    {"setor": "Residencial Vale dos Sonhos I", "regiao": "NORTE"},
-    {"setor": "Residencial Vale dos Sonhos II", "regiao": "NORTE"},
-    {"setor": "Vila Clemente", "regiao": "NORTE"},
-    {"setor": "Residencial Elza Fronza", "regiao": "NORTE"},
-    {"setor": "Vila Cristina", "regiao": "NORTE"},
-    {"setor": "Vila dos Oficiais", "regiao": "NORTE"},
-    {"setor": "Vila Industrial Pedro Abraao", "regiao": "NORTE"},
-    {"setor": "Vila Militar", "regiao": "NORTE"},
-    {"setor": "Vila Nossa Senhora Aparecida", "regiao": "NORTE"},
-    {"setor": "Vila Roriz", "regiao": "NORTE"},
-    {"setor": "Vila Santa Cruz", "regiao": "NORTE"},
-    {"setor": "Chacaras de Recreio Samambaia", "regiao": "NORTE"},
-    {"setor": "Estancia Vista Alegre", "regiao": "NORTE"},
-    {"setor": "Village Atalaia", "regiao": "NORTE"},
-    {"setor": "setor Aeroporto", "regiao": "CENTRO OESTE"},
-    {"setor": "Aeroviario", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Campinas", "regiao": "CENTRO OESTE"},
-    {"setor": "Castelo Branco", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Central", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Centro Oeste", "regiao": "CENTRO OESTE"},
-    {"setor": "Cidade Jardim", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Coimbra", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Crimeia Leste", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Crimeia Oeste", "regiao": "CENTRO OESTE"},
-    {"setor": "Elisios Campos", "regiao": "CENTRO OESTE"},
-    {"setor": "Esplanada do Anicuns", "regiao": "CENTRO OESTE"},
-    {"setor": "setor dos Funcionarios", "regiao": "CENTRO OESTE"},
-    {"setor": "Guadalajara", "regiao": "CENTRO OESTE"},
-    {"setor": "Industrial Mooca", "regiao": "CENTRO OESTE"},
-    {"setor": "Jardim Ana Flavia", "regiao": "CENTRO OESTE"},
-    {"setor": "Jardim Xavier", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Marechal Rondon", "regiao": "CENTRO OESTE"},
-    {"setor": "Morada Nova", "regiao": "CENTRO OESTE"},
-    {"setor": "Morais", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Negrao de Lima", "regiao": "CENTRO OESTE"},
-    {"setor": "Nossa Senhora de Fatima", "regiao": "CENTRO OESTE"},
-    {"setor": "Nova Vila", "regiao": "CENTRO OESTE"},
-    {"setor": "setor Norte Ferroviario", "regiao": "CENTRO OESTE"},
-    {"setor": "Operario", "regiao": "CENTRO OESTE"},
-    {"setor": "Padre Pelagio", "regiao": "CENTRO OESTE"},
-    {"setor": "Parque Industrial de goiânia", "regiao": "CENTRO OESTE"},
-    {"setor": "Rodoviario", "regiao": "CENTRO OESTE"},
-    {"setor": "Romildo F. R. Amaral", "regiao": "CENTRO OESTE"},
-    {"setor": "Santos Dumont", "regiao": "CENTRO OESTE"},
-    {"setor": "Sao Jose", "regiao": "CENTRO OESTE"},
-    {"setor": "Sul", "regiao": "CENTRO OESTE"},
-    {"setor": "Tocafundo", "regiao": "CENTRO OESTE"},
-    {"setor": "Leste Universitario", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Abaja", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Adelia", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Aguiar", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Aurora", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Bethel", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Boa Sorte", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Canaa", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Colemar Natal e Silva", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Fernandes", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Froes", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Irany", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Isaura", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Jacare", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Jaragua", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Megale", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Monticelli", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Mooca", "regiao": "CENTRO OESTE"},
-    {"setor": "Leste Vila Nova", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Nova Canaa", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Ofugi", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Oswaldo Rosa", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Paraiso", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Perdiz", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santa Helena", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santa Isabel", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santa Rita", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santa Tereza", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santana", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santo Antonio", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Sao Francisco", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Sao Jose", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Sao Luiz", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Vera Cruz", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Viana", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Viandelli", "regiao": "CENTRO OESTE"},
-    {"setor": "Vila Santo Afonso", "regiao": "CENTRO OESTE"},
-    {"setor": "Residencial Itamaraca", "regiao": "CENTRO OESTE"},
-    {"setor": "Yara", "regiao": "CENTRO OESTE"},
-    {"setor": "Bertim Belchior", "regiao": "CENTRO OESTE"},
-    {"setor": "Bertim Belchior II", "regiao": "CENTRO OESTE"},
-    {"setor": "Alto do Vale", "regiao": "NOROESTE"},
-    {"setor": "Anglo", "regiao": "NOROESTE"},
-    {"setor": "da Vitoria", "regiao": "NOROESTE"},
-    {"setor": "Barravento", "regiao": "NOROESTE"},
-    {"setor": "Boa Vista", "regiao": "NOROESTE"},
-    {"setor": "Residencial Brisas da Mata", "regiao": "NOROESTE"},
-    {"setor": "setor Candida de Morais", "regiao": "NOROESTE"},
-    {"setor": "Chacaras Maria Dilce", "regiao": "NOROESTE"},
-    {"setor": "Conjunto Primavera", "regiao": "NOROESTE"},
-    {"setor": "Empresarial", "regiao": "NOROESTE"},
-    {"setor": "setor Estrela D\"Alva", "regiao": "NOROESTE"},
-    {"setor": "Vila Finsocial", "regiao": "NOROESTE"},
-    {"setor": "Floresta", "regiao": "NOROESTE"},
-    {"setor": "Fonte das Aguas", "regiao": "NOROESTE"},
-    {"setor": "Green Park", "regiao": "NOROESTE"},
-    {"setor": "Jardim Belvedere", "regiao": "NOROESTE"},
-    {"setor": "Jardim Camargo", "regiao": "NOROESTE"},
-    {"setor": "Jardim Colorado", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba I", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba II", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba III", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba IV", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba V", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba VI", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba VII", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba VIII", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba IX", "regiao": "NOROESTE"},
-    {"setor": "Jardim Curitiba X", "regiao": "NOROESTE"},
-    {"setor": "Jardim das Hortências", "regiao": "NOROESTE"},
-    {"setor": "Jardim das Rosas", "regiao": "NOROESTE"},
-    {"setor": "Jardim Fonte Nova", "regiao": "NOROESTE"},
-    {"setor": "Jardim Helou", "regiao": "NOROESTE"},
-    {"setor": "Jardim Lago Azul", "regiao": "NOROESTE"},
-    {"setor": "Jardim Liberdade", "regiao": "NOROESTE"},
-    {"setor": "Jardim Nova Esperança", "regiao": "NOROESTE"},
-    {"setor": "Jardim Vista Bela", "regiao": "NOROESTE"},
-    {"setor": "Juscelino Kubitschek", "regiao": "NOROESTE"},
-    {"setor": "Juscelino Kubitschek II", "regiao": "NOROESTE"},
-    {"setor": "Malibu", "regiao": "NOROESTE"},
-    {"setor": "Mansões Paraíso", "regiao": "NOROESTE"},
-    {"setor": "Mansões Rosas de Ouro", "regiao": "NOROESTE"},
-    {"setor": "Marabá", "regiao": "NOROESTE"},
-    {"setor": "setor Morada do Sol", "regiao": "NOROESTE"},
-    {"setor": "Noroeste", "regiao": "NOROESTE"},
-    {"setor": "setor Novo Planalto", "regiao": "NOROESTE"},
-    {"setor": "Parque Aeronáutico Antônio Sebba Filho", "regiao": "NOROESTE"},
-    {"setor": "Parque Maracanã", "regiao": "NOROESTE"},
-    {"setor": "Parque Santa Rita", "regiao": "NOROESTE"},
-    {"setor": "Prive Norte", "regiao": "NOROESTE"},
-    {"setor": "Residencial Recanto do Bosque", "regiao": "NOROESTE"},
-    {"setor": "setor Parque Tremendão", "regiao": "NOROESTE"},
-    {"setor": "setor Parque Tremendão II", "regiao": "NOROESTE"},
-    {"setor": "setor Parque Tremendão III", "regiao": "NOROESTE"},
-    {"setor": "Paulo Pacheco", "regiao": "NOROESTE"},
-    {"setor": "Recreio Estrela D\"Alva", "regiao": "NOROESTE"},
-    {"setor": "Recreio Panorama", "regiao": "NOROESTE"},
-    {"setor": "Residencial Fortaleza", "regiao": "NOROESTE"},
-    {"setor": "Residencial Maringá", "regiao": "NOROESTE"},
-    {"setor": "Residencial Mirante", "regiao": "NOROESTE"},
-    {"setor": "São Carlos", "regiao": "NOROESTE"},
-    {"setor": "São Domingos", "regiao": "NOROESTE"},
-    {"setor": "setor Estrela Dalva", "regiao": "NOROESTE"},
-    {"setor": "São Joaquim", "regiao": "NOROESTE"},
-    {"setor": "Senador Albino Boaventura", "regiao": "NOROESTE"},
-    {"setor": "Solange Parque", "regiao": "NOROESTE"},
-    {"setor": "Solange Parque I", "regiao": "NOROESTE"},
-    {"setor": "Solange Parque II", "regiao": "NOROESTE"},
-    {"setor": "Solange Parque III", "regiao": "NOROESTE"},
-    {"setor": "Terra Nova", "regiao": "NOROESTE"},
-    {"setor": "Vila Mutirão", "regiao": "NOROESTE"},
-    {"setor": "Vila Mutirao I", "regiao": "NOROESTE"},
-    {"setor": "Vila Mutirao II", "regiao": "NOROESTE"},
-    {"setor": "Marata Araguaia", "regiao": "NOROESTE"},
-    {"setor": "Residencial Marata", "regiao": "NOROESTE"},
-    {"setor": "Chacaras Hellou", "regiao": "NOROESTE"},
-    {"setor": "Alto da Gloria", "regiao": "SUL"},
-    {"setor": "Areiao", "regiao": "SUL"},
-    {"setor": "setor Bela Vista", "regiao": "SUL"},
-    {"setor": "setor Bueno", "regiao": "SUL"},
-    {"setor": "Jardim America", "regiao": "SUL"},
-    {"setor": "Jardim das Esmeraldas", "regiao": "SUL"},
-    {"setor": "Jardim Goias", "regiao": "SUL"},
-    {"setor": "Jardim Santo Antonio", "regiao": "SUL"},
-    {"setor": "Jardim Vitoria", "regiao": "SUL"},
-    {"setor": "setor Marista", "regiao": "SUL"},
-    {"setor": "Nova SuiCa", "regiao": "SUL"},
-    {"setor": "setor Oeste", "regiao": "SUL"},
-    {"setor": "Parque Amazonia", "regiao": "SUL"},
-    {"setor": "setor Pedro Ludovico", "regiao": "SUL"},
-    {"setor": "Serrinha", "regiao": "SUL"},
-    {"setor": "setor dos Afonsos", "regiao": "SUL"},
-    {"setor": "Vila Americano do Brasil", "regiao": "SUL"},
-    {"setor": "Vila Divino Pai Eterno", "regiao": "SUL"},
-    {"setor": "Vila Maria Isabel", "regiao": "SUL"},
-    {"setor": "Vila Maria Jose", "regiao": "SUL"},
-    {"setor": "Vila RedenCao", "regiao": "SUL"},
-    {"setor": "Vila Santa Efigenia", "regiao": "SUL"},
-    {"setor": "Vila Sao Joao", "regiao": "SUL"},
-    {"setor": "Vila Sao Tomaz", "regiao": "SUL"},
-    {"setor": "Vila Teofilo Neto", "regiao": "SUL"},
-    {"setor": "14 Bis", "regiao": "OESTE"},
-    {"setor": "Alto Boa Vista", "regiao": "OESTE"},
-    {"setor": "Ana Moraes", "regiao": "OESTE"},
-    {"setor": "Anicuns", "regiao": "OESTE"},
-    {"setor": "Araguaia Park", "regiao": "OESTE"},
-    {"setor": "Bairro das NaCoes", "regiao": "OESTE"},
-    {"setor": "Barra da Tijuca", "regiao": "OESTE"},
-    {"setor": "Beatriz Nascimento", "regiao": "OESTE"},
-    {"setor": "Bosque dos Buritis", "regiao": "OESTE"},
-    {"setor": "Buena Vista", "regiao": "OESTE"},
-    {"setor": "Buena Vista I", "regiao": "OESTE"},
-    {"setor": "Buena Vista II", "regiao": "OESTE"},
-    {"setor": "Buena Vista III", "regiao": "OESTE"},
-    {"setor": "Buena Vista IV", "regiao": "OESTE"},
-    {"setor": "Capuava", "regiao": "OESTE"},
-    {"setor": "Capuava Residencial Prive", "regiao": "OESTE"},
-    {"setor": "Carla Cristina", "regiao": "OESTE"},
-    {"setor": "Carolina Parque", "regiao": "OESTE"},
-    {"setor": "Celina Parque", "regiao": "OESTE"},
-    {"setor": "Chacara Anhanguera", "regiao": "OESTE"},
-    {"setor": "Chacara Buritis", "regiao": "OESTE"},
-    {"setor": "Chacara Maringa", "regiao": "OESTE"},
-    {"setor": "Chacara Santa Rita", "regiao": "OESTE"},
-    {"setor": "Chacara Sao Jose", "regiao": "OESTE"},
-    {"setor": "Cidade Verde", "regiao": "OESTE"},
-    {"setor": "Condominio do Lago", "regiao": "OESTE"},
-    {"setor": "Conjunto Anhanguera", "regiao": "OESTE"},
-    {"setor": "Conjunto Vera Cruz", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz I", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz II", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz III", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz IV", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz V", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Conjunto Vera Cruz VI", "regiao": "OESTE", "rota" : "D"},
-    {"setor": "Coronel Alvaro Alves Junior", "regiao": "OESTE"},
-    {"setor": "Costa Verde", "regiao": "OESTE"},
-    {"setor": "Della Pena", "regiao": "OESTE"},
-    {"setor": "Dezopi", "regiao": "OESTE"},
-    {"setor": "Dom Rafael", "regiao": "OESTE"},
-    {"setor": "Goia", "regiao": "OESTE"},
-    {"setor": "Goia II", "regiao": "OESTE"},
-    {"setor": "Goia III", "regiao": "OESTE"},
-    {"setor": "Goia IV", "regiao": "OESTE"},
-    {"setor": "Residencial Goiânia Viva", "regiao": "OESTE"},
-    {"setor": "Goyaz Park", "regiao": "OESTE"},
-    {"setor": "Ipiranga", "regiao": "OESTE"},
-    {"setor": "Residencial Portal dos Ipes", "regiao": "OESTE"},
-    {"setor": "Jardim Aritana", "regiao": "OESTE"},
-    {"setor": "Jardim Bonanza", "regiao": "OESTE"},
-    {"setor": "Jardim Botanico", "regiao": "OESTE"},
-    {"setor": "Jardim Clarissa", "regiao": "OESTE"},
-    {"setor": "Jardim Corte Real", "regiao": "OESTE"},
-    {"setor": "Jardim das Oliveiras", "regiao": "OESTE"},
-    {"setor": "Jardim das Rosas", "regiao": "OESTE"},
-    {"setor": "Jardim Imperial", "regiao": "OESTE"},
-    {"setor": "Jardim Leblon", "regiao": "OESTE"},
-    {"setor": "Jardim Leblon II", "regiao": "OESTE"},
-    {"setor": "Jardim Marques de Abreu", "regiao": "OESTE"},
-    {"setor": "Jardim Mirabel", "regiao": "OESTE"},
-    {"setor": "Jardim Novo Petropolis", "regiao": "OESTE"},
-    {"setor": "Jardim Real", "regiao": "OESTE"},
-    {"setor": "Jardim Sao Jose", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado I", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado II", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado III", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado IV", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado V", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado VI", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado VII", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado VIII", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado IX", "regiao": "OESTE"},
-    {"setor": "Jardins do Cerrado X", "regiao": "OESTE"},
-    {"setor": "Joao Bueno", "regiao": "OESTE"},
-    {"setor": "Vila Joao Vaz", "regiao": "OESTE"},
-    {"setor": "Junqueira", "regiao": "OESTE"},
-    {"setor": "Lorena Parque", "regiao": "OESTE"},
-    {"setor": "Lirios do Campo", "regiao": "OESTE"},
-    {"setor": "London Park", "regiao": "OESTE"},
-    {"setor": "Luana Park", "regiao": "OESTE"},
-    {"setor": "Maysa", "regiao": "OESTE"},
-    {"setor": "Maysa Extensao", "regiao": "OESTE"},
-    {"setor": "Monte Pascoal", "regiao": "OESTE"},
-    {"setor": "Jardim Mundo Novo", "regiao": "OESTE"},
-    {"setor": "Jardim Mundo Novo II", "regiao": "OESTE"},
-    {"setor": "Jardim Mundo Novo III", "regiao": "OESTE"},
-    {"setor": "Nova Aurora", "regiao": "OESTE"},
-    {"setor": "Nunes de Morais", "regiao": "OESTE"},
-    {"setor": "Jardim Petropolis", "regiao": "OESTE"},
-    {"setor": "Park Solar", "regiao": "OESTE"},
-    {"setor": "Parque Bom Jesus", "regiao": "OESTE"},
-    {"setor": "Parque Buriti", "regiao": "OESTE"},
-    {"setor": "Parque Eldorado Oeste", "regiao": "OESTE"},
-    {"setor": "Parque Industrial Joao Braz", "regiao": "OESTE"},
-    {"setor": "Parque Industrial Paulista", "regiao": "OESTE"},
-    {"setor": "Parque Mendanha", "regiao": "OESTE"},
-    {"setor": "Parque Oeste", "regiao": "OESTE"},
-    {"setor": "Parque Paraiso", "regiao": "OESTE"},
-    {"setor": "Pilar dos Sonhos", "regiao": "OESTE"},
-    {"setor": "Ponta Negra", "regiao": "OESTE"},
-    {"setor": "Portal Anhanguera", "regiao": "OESTE"},
-    {"setor": "Quinta da Boa Vista", "regiao": "OESTE"},
-    {"setor": "Residencial Recanto das GarCas", "regiao": "OESTE"},
-    {"setor": "Recreio Sao Joaquim", "regiao": "OESTE"},
-    {"setor": "Residencial Mendanha", "regiao": "OESTE"},
-    {"setor": "Residencial Nossa Senhora Auxiliadora", "regiao": "OESTE"},
-    {"setor": "Residencial Noroeste", "regiao": "OESTE"},
-    {"setor": "Residencial Petropolis", "regiao": "OESTE"},
-    {"setor": "Residencial Portinari", "regiao": "OESTE"},
-    {"setor": "Residencial Primavera", "regiao": "OESTE"},
-    {"setor": "Residencial Real", "regiao": "OESTE"},
-    {"setor": "Residencial Santa Maria", "regiao": "OESTE"},
-    {"setor": "Rio Branco", "regiao": "OESTE"},
-    {"setor": "San Marino", "regiao": "OESTE"},
-    {"setor": "Sao Bernardo", "regiao": "OESTE"},
-    {"setor": "Sao Francisco", "regiao": "OESTE"},
-    {"setor": "Sao Joaquim", "regiao": "OESTE"},
-    {"setor": "Sao Marcos", "regiao": "OESTE"},
-    {"setor": "Santa Rita", "regiao": "OESTE"},
-    {"setor": "Santos Dumont", "regiao": "OESTE"},
-    {"setor": "Serra Azul", "regiao": "OESTE"},
-    {"setor": "Solange Parque", "regiao": "OESTE"},
-    {"setor": "Solange Parque I", "regiao": "OESTE"},
-    {"setor": "Solar Ville", "regiao": "OESTE"},
-    {"setor": "Tempo Novo", "regiao": "OESTE"},
-    {"setor": "Tuzimoto", "regiao": "OESTE"},
-    {"setor": "Tropical Verde", "regiao": "OESTE"},
-    {"setor": "Tropical Ville", "regiao": "OESTE"},
-    {"setor": "Vila Regina", "regiao": "OESTE"},
-    {"setor": "Vila Rizzo", "regiao": "OESTE"},
-    {"setor": "Village Maringa", "regiao": "OESTE"},
-    {"setor": "Jardim Bella Vitta", "regiao": "OESTE"},
-    {"setor": "Jardim das orquideas", "regiao": "OESTE"},
-    {"setor": "Jardim Pampulha", "regiao": "OESTE"},
-    {"setor": "setor das nacoes extensao", "regiao": "OESTE"},
-    {"setor": "Ytapua", "regiao": "OESTE"},
-    {"setor": "agua Branca", "regiao": "LESTE", "rota" : "Novo Mundo"},
-    {"setor": "Residencial Aldeia do Vale", "regiao": "LESTE"},
-    {"setor": "Alphaville Flamboyant", "regiao": "LESTE"},
-    {"setor": "Alphaville Araguaia", "regiao": "", "rota" : "CONDOMINIOS"},
-    {"setor": "Arco Verde", "regiao": "LESTE"},
-    {"setor": "Aruana", "regiao": "LESTE"},
-    {"setor": "Aruana I", "regiao": "LESTE"},
-    {"setor": "Aruana II", "regiao": "LESTE"},
-    {"setor": "Aruana III", "regiao": "LESTE"},
-    {"setor": "Aruana Park", "regiao": "LESTE"},
-    {"setor": "Bairro Feliz", "regiao": "LESTE", "rota" : "Leste Universitario"},
-    {"setor": "Belo Horizonte", "regiao": "LESTE"},
-    {"setor": "Brisas do Cerrado", "regiao": "LESTE"},
-    {"setor": "Carlos de Freitas", "regiao": "LESTE"},
-    {"setor": "Clea Borges", "regiao": "LESTE"},
-    {"setor": "Conjunto Anhanguera", "regiao": "LESTE"},
-    {"setor": "Costa Paranhos", "regiao": "LESTE"},
-    {"setor": "Chacara Botafogo", "regiao": "LESTE"},
-    {"setor": "Chacara do Governador", "regiao": "LESTE"},
-    {"setor": "Colonia Santa Marta", "regiao": "LESTE"},
-    {"setor": "Conjunto CaiCara", "regiao": "LESTE"},
-    {"setor": "Conjunto Fabiana", "regiao": "LESTE"},
-    {"setor": "Conjunto Palmares", "regiao": "LESTE"},
-    {"setor": "Conjunto Riviera", "regiao": "LESTE"},
-    {"setor": "Goiânia Golfe Clube", "regiao": "LESTE"},
-    {"setor": "Grande Retiro", "regiao": "LESTE"},
-    {"setor": "Chacaras Retiro", "regiao": "LESTE"},
-    {"setor": "Housing Flamboyant", "regiao": "LESTE"},
-    {"setor": "Irisville", "regiao": "LESTE"},
-    {"setor": "Irisville I", "regiao": "LESTE"},
-    {"setor": "Irisville II", "regiao": "LESTE"},
-    {"setor": "Irisville III", "regiao": "LESTE"},
-    {"setor": "Jardim Abaporu", "regiao": "LESTE"},
-    {"setor": "Jardim Atenas", "regiao": "LESTE"},
-    {"setor": "Jardim Bela Vista", "regiao": "LESTE"},
-    {"setor": "Jardim Brasil", "regiao": "LESTE"},
-    {"setor": "Jardim California", "regiao": "LESTE"},
-    {"setor": "Jardim California Industrial", "regiao": "LESTE"},
-    {"setor": "Jardim Conquista", "regiao": "LESTE"},
-    {"setor": "Jardim da Luz", "regiao": "LESTE"},
-    {"setor": "Jardim das Aroeiras", "regiao": "LESTE"},
-    {"setor": "Jardim Dom Fernando", "regiao": "LESTE"},
-    {"setor": "Jardim Dom Fernando I", "regiao": "LESTE"},
-    {"setor": "Jardim Dom Fernando II", "regiao": "LESTE"},
-    {"setor": "Jardim Lajeado", "regiao": "LESTE"},
-    {"setor": "Jardim Maria Helena", "regiao": "LESTE"},
-    {"setor": "Jardim Mariliza", "regiao": "LESTE"},
-    {"setor": "Jardim Novo Mundo", "regiao": "LESTE"},
-    {"setor": "Jardim Paris", "regiao": "LESTE"},
-    {"setor": "Jardim Santa Cecilia", "regiao": "LESTE"},
-    {"setor": "Jardim Valencia", "regiao": "LESTE"},
-    {"setor": "Jardim Verona", "regiao": "LESTE"},
-    {"setor": "Jardim Vitoria", "regiao": "LESTE"},
-    {"setor": "Jardim Vitoria II", "regiao": "LESTE"},
-    {"setor": "Jardins Milao", "regiao": "LESTE"},
-    {"setor": "Jardins Munique", "regiao": "LESTE"},
-    {"setor": "Lucy Pinheiro", "regiao": "LESTE"},
-    {"setor": "Mansoes Bernardo Sayao", "regiao": "LESTE"},
-    {"setor": "Mar del Plata", "regiao": "LESTE"},
-    {"setor": "Monte Verde", "regiao": "LESTE"},
-    {"setor": "Park Lozandes", "regiao": "LESTE"},
-    {"setor": "Parque Acalanto", "regiao": "LESTE"},
-    {"setor": "Parque Atheneu", "regiao": "LESTE"},
-    {"setor": "Parque das Amendoeiras", "regiao": "LESTE"},
-    {"setor": "Parque das Laranjeiras", "regiao": "LESTE"},
-    {"setor": "Parque Flamboyant", "regiao": "LESTE"},
-    {"setor": "Parque Santa Cruz", "regiao": "LESTE"},
-    {"setor": "Parque Santa Maria", "regiao": "LESTE"},
-    {"setor": "Paulo Estrela", "regiao": "LESTE"},
-    {"setor": "Portal do Sol", "regiao": "LESTE"},
-    {"setor": "Portal do Sol II", "regiao": "LESTE"},
-    {"setor": "Portal Petropolis", "regiao": "LESTE"},
-    {"setor": "Prive dos Girassois", "regiao": "LESTE"},
-    {"setor": "setor Recanto das Minas Gerais", "regiao": "LESTE"},
-    {"setor": "Recanto dos Buritis", "regiao": "LESTE"},
-    {"setor": "Residencial Havai", "regiao": "LESTE"},
-    {"setor": "Residencial Olinda", "regiao": "LESTE"},
-    {"setor": "Residencial Ouro Preto", "regiao": "LESTE"},
-    {"setor": "Residencial Portugues", "regiao": "LESTE"},
-    {"setor": "Rio Jordao", "regiao": "LESTE"},
-    {"setor": "Santa Barbara", "regiao": "LESTE"},
-    {"setor": "Santo Hilario", "regiao": "LESTE"},
-    {"setor": "Santo Hilario I", "regiao": "LESTE"},
-    {"setor": "Santo Hilario II", "regiao": "LESTE"},
-    {"setor": "Sao Francisco de Assis", "regiao": "LESTE"},
-    {"setor": "Sao Leopoldo", "regiao": "LESTE"},
-    {"setor": "Sao Silvestre", "regiao": "LESTE"},
-    {"setor": "Senador Paranhos", "regiao": "LESTE"},
-    {"setor": "Serra Park", "regiao": "LESTE"},
-    {"setor": "Sonho Dourado", "regiao": "LESTE"},
-    {"setor": "Sonho Verde", "regiao": "LESTE"},
-    {"setor": "Tupinamba dos Reis", "regiao": "LESTE"},
-    {"setor": "Vale das Brisas", "regiao": "LESTE"},
-    {"setor": "Vale do Araguaia", "regiao": "LESTE"},
-    {"setor": "Vila Alto da Gloria", "regiao": "LESTE"},
-    {"setor": "Vila Bandeirantes", "regiao": "LESTE"},
-    {"setor": "Vila Concordia", "regiao": "LESTE"},
-    {"setor": "Vila Legionarias", "regiao": "LESTE"},
-    {"setor": "Vila Maria Luiza", "regiao": "LESTE"},
-    {"setor": "Vila Martins", "regiao": "LESTE"},
-    {"setor": "Vila Matilde", "regiao": "LESTE"},
-    {"setor": "Vila Morais", "regiao": "LESTE"},
-    {"setor": "Vila Pedroso", "regiao": "LESTE"},
-    {"setor": "Vila Romana", "regiao": "LESTE"},
-    {"setor": "Montes claros", "regiao": "LESTE"},
-    {"setor": "Fazenda Vau das Pombas", "regiao": "LESTE"},
-    {"setor": "Ville de France", "regiao": "LESTE"},
-    {"setor": "Alphaville Residencial", "regiao": "SUDOESTE"},
-    {"setor": "Alto Oriente", "regiao": "SUDOESTE"},
-    {"setor": "Amin Camargo", "regiao": "SUDOESTE"},
-    {"setor": "Ana Clara", "regiao": "SUDOESTE"},
-    {"setor": "Andreia", "regiao": "SUDOESTE"},
-    {"setor": "Parque Anhanguera", "regiao": "SUDOESTE"},
-    {"setor": "Parque Anhanguera I", "regiao": "SUDOESTE"},
-    {"setor": "Parque Anhanguera II", "regiao": "SUDOESTE"},
-    {"setor": "Aquarios", "regiao": "SUDOESTE"},
-    {"setor": "Atibaia", "regiao": "SUDOESTE"},
-    {"setor": "Baliza", "regiao": "SUDOESTE"},
-    {"setor": "Bonanza", "regiao": "SUDOESTE"},
-    {"setor": "Bosque Sumare", "regiao": "SUDOESTE"},
-    {"setor": "Brasil Central", "regiao": "SUDOESTE"},
-    {"setor": "Cachoeira Dourada", "regiao": "SUDOESTE"},
-    {"setor": "Campos Dourados", "regiao": "SUDOESTE"},
-    {"setor": "Celina Park", "regiao": "SUDOESTE"},
-    {"setor": "Center Ville", "regiao": "SUDOESTE"},
-    {"setor": "Conjunto das Esmeraldas", "regiao": "SUDOESTE"},
-    {"setor": "Condominio das Esmeraldas", "regiao": "SUDOESTE"},
-    {"setor": "Portal do Oriente", "regiao": "SUDOESTE"},
-    {"setor": "Cristina", "regiao": "SUDOESTE"},
-    {"setor": "Dona Ge", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Eldorado", "regiao": "SUDOESTE"},
-    {"setor": "Eli Forte", "regiao": "SUDOESTE"},
-    {"setor": "Faicalville", "regiao": "SUDOESTE"},
-    {"setor": "Faicalville II", "regiao": "SUDOESTE"},
-    {"setor": "Faicalville III", "regiao": "SUDOESTE"},
-    {"setor": "Forteville", "regiao": "SUDOESTE"},
-    {"setor": "Garavelo", "regiao": "SUDOESTE"},
-    {"setor": "Garavelo B", "regiao": "SUDOESTE"},
-    {"setor": "Grajaú", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Granville", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Alvaphille", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Atlantico", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Ana Lucia", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Caravelas", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Eli Forte", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Europa", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Florenca", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Gardenia", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Ipanema", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Itaipú", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Madri", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Planalto", "regiao": "SUDOESTE", "rota" : "I"},
-    {"setor": "Jardim Presidente", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Sonia Maria", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Tancredo Neves", "regiao": "SUDOESTE"},
-    {"setor": "Jardim Vila Boa", "regiao": "SUDOESTE"},
-    {"setor": "Jardins Lisboa", "regiao": "SUDOESTE"},
-    {"setor": "Linda Vista", "regiao": "SUDOESTE"},
-    {"setor": "Madre Germana", "regiao": "SUDOESTE"},
-    {"setor": "Madre Germana I", "regiao": "SUDOESTE"},
-    {"setor": "Madre Germana II", "regiao": "SUDOESTE"},
-    {"setor": "Maria Celeste", "regiao": "SUDOESTE"},
-    {"setor": "Marlene", "regiao": "SUDOESTE"},
-    {"setor": "Moinho dos Ventos", "regiao": "SUDOESTE"},
-    {"setor": "Monte Carlo", "regiao": "SUDOESTE"},
-    {"setor": "Novo Horizonte", "regiao": "SUDOESTE"},
-    {"setor": "Orientville", "regiao": "SUDOESTE"},
-    {"setor": "Parque Anhanguera", "regiao": "SUDOESTE"},
-    {"setor": "Parque Oeste Industrial", "regiao": "SUDOESTE"},
-    {"setor": "Parque Santa Rita", "regiao": "SUDOESTE"},
-    {"setor": "Porto Seguro", "regiao": "SUDOESTE"},
-    {"setor": "Prive AtlAntico", "regiao": "SUDOESTE"},
-    {"setor": "Prive Ilhas do Caribe", "regiao": "SUDOESTE"},
-    {"setor": "Real Conquista", "regiao": "SUDOESTE"},
-    {"setor": "Recanto das Emas", "regiao": "SUDOESTE"},
-    {"setor": "Recreio do Funcionario Publico", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Barcelona", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Canada", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Eldorado", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Escocia", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Espanha", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Fidelis", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Flamingo", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Florida", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Itaipú", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Katia", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Porto dourado I", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Porto dourado II", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Porto dourado III", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Manhattan", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Sevilha", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Talisma", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Aquarios", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Aquarios II", "regiao": "SUDOESTE"},
-    {"setor": "Residencial Valencia", "regiao": "SUDOESTE"},
-    {"setor": "Rio Formoso", "regiao": "SUDOESTE"},
-    {"setor": "Rio Verde", "regiao": "SUDOESTE"},
-    {"setor": "Santa Fe", "regiao": "SUDOESTE"},
-    {"setor": "Santa Fe I", "regiao": "SUDOESTE"},
-    {"setor": "Santa Fe II", "regiao": "SUDOESTE"},
-    {"setor": "Santa Rita", "regiao": "SUDOESTE"},
-    {"setor": "Santa Rita V", "regiao": "SUDOESTE"},
-    {"setor": "Santa Rita VII", "regiao": "SUDOESTE"},
-    {"setor": "Salinos", "regiao": "SUDOESTE"},
-    {"setor": "setor dos Dourados", "regiao": "SUDOESTE"},
-    {"setor": "Solar Bougainville", "regiao": "SUDOESTE"},
-    {"setor": "Solar Santa Rita", "regiao": "SUDOESTE"},
-    {"setor": "setor Sudoeste", "regiao": "SUDOESTE"},
-    {"setor": "Tres Marias", "regiao": "SUDOESTE"},
-    {"setor": "Ulisses Guimaraes", "regiao": "SUDOESTE"},
-    {"setor": "setor Uniao", "regiao": "SUDOESTE"},
-    {"setor": "Vereda dos Buritis", "regiao": "SUDOESTE"},
-    {"setor": "Vereda dos Buritis II", "regiao": "SUDOESTE"},
-    {"setor": "Vila Adelia", "regiao": "SUDOESTE"},
-    {"setor": "Vila Alpes", "regiao": "SUDOESTE"},
-    {"setor": "Vila Alvorada", "regiao": "SUDOESTE"},
-    {"setor": "Vila Anchieta", "regiao": "SUDOESTE"},
-    {"setor": "Vila Bela", "regiao": "SUDOESTE"},
-    {"setor": "Vila Luciana", "regiao": "SUDOESTE"},
-    {"setor": "Vila Lucy", "regiao": "SUDOESTE"},
-    {"setor": "Vila Maua", "regiao": "SUDOESTE"},
-    {"setor": "Vila Rosa", "regiao": "SUDOESTE"},
-    {"setor": "Vila Rezende", "regiao": "SUDOESTE"},
-    {"setor": "Vila Santa Rita", "regiao": "SUDOESTE"},
-    {"setor": "Vila Sao Paulo", "regiao": "SUDOESTE"},
-    {"setor": "Village Green Park", "regiao": "SUDOESTE"},
-    {"setor": "Village Santa Rita", "regiao": "SUDOESTE"},
-    {"setor": "Village Santa Rita IV", "regiao": "SUDOESTE"},
-    {"setor": "Condominio Anhanguera", "regiao": "SUDOESTE"}
+[{
+    "setor": "Alice Barbosa",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Antonio Barbosa",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Antonio Carlos Pires",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Asa Branca",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Atalaia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Caraibas",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Felicidade",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Gentil Meireles",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Goiânia 2",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Granja Cruzeiro do Sul",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Guarema",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Hugo de Moraes",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Humaita",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Itanhanga",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Itatiaia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Itamaraca",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "setor Jao",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Balneario Meia Ponte",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Bom Jesus",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Diamantina",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Gramado",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Guanabara",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Guanabara I",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Guanabara II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Guanabara III",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Guanabara IV",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Conjunto Parque dos Eucaliptos",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Ipe",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Jardim Pompeia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jardim Santa Cecilia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Joao Paulo II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Jose Viandeli",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Licardino Ney",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Mansoes do Campus",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Mansoes Goianas",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Maria Dilce",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Maria LourenCa",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Maria Rosa",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Morada do Bosque",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Morada do Ipe",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Morumbi",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Morada dos Sonhos",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Morada dos Sonhos II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Sitio de Recreio Paraiso Tropical",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Nossa Morada",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Orlando de Morais",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Panorama Parque",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Parque Balneario",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Parque das Flores",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Parque das Nacoes",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Parque dos Cisnes",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Perim",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Pindorama",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Portal da Mata",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Progresso",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Balneario",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial das Acacias",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial dos Ipes",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Guanabara",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Chacaras anhanguera",
+    "regiao": "",
+    "rota": "D"
+  },
+  {
+    "setor": "Residencial Italia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Santa Genoveva",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Santa Genoveva II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Sao Geraldo",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Jardim Sao Judas Tadeu",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Sevene",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Shangri-la",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "setor Urias Magalhaes",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "setor Urias Magalhaes II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vale da Serra",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Bela Goiânia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Elizene Santana",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Vale dos Sonhos",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Vale dos Sonhos I",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Vale dos Sonhos II",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Clemente",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Residencial Elza Fronza",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Cristina",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila dos Oficiais",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Industrial Pedro Abraao",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Militar",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Nossa Senhora Aparecida",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Roriz",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Vila Santa Cruz",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Chacaras de Recreio Samambaia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Estancia Vista Alegre",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "Village Atalaia",
+    "regiao": "NORTE"
+  },
+  {
+    "setor": "setor Aeroporto",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Aeroviario",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Campinas",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Castelo Branco",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Central",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Centro Oeste",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Cidade Jardim",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Coimbra",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Crimeia Leste",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Crimeia Oeste",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Elisios Campos",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Esplanada do Anicuns",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor dos Funcionarios",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Guadalajara",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Industrial Mooca",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Jardim Ana Flavia",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Jardim Xavier",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Marechal Rondon",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Morada Nova",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Morais",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Negrao de Lima",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Nossa Senhora de Fatima",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Nova Vila",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "setor Norte Ferroviario",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Operario",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Padre Pelagio",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Parque Industrial de goiânia",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Rodoviario",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Romildo F. R. Amaral",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Santos Dumont",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Sao Jose",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Sul",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Tocafundo",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Leste Universitario",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Abaja",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Adelia",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Aguiar",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Aurora",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Bethel",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Boa Sorte",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Canaa",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Colemar Natal e Silva",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Fernandes",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Froes",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Irany",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Isaura",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Jacare",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Jaragua",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Megale",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Monticelli",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Mooca",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Leste Vila Nova",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Nova Canaa",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Ofugi",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Oswaldo Rosa",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Paraiso",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Perdiz",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santa Helena",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santa Isabel",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santa Rita",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santa Tereza",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santana",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santo Antonio",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Sao Francisco",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Sao Jose",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Sao Luiz",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Vera Cruz",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Viana",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Viandelli",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Vila Santo Afonso",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Residencial Itamaraca",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Yara",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Bertim Belchior",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Bertim Belchior II",
+    "regiao": "CENTRO OESTE"
+  },
+  {
+    "setor": "Alto do Vale",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Anglo",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "da Vitoria",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Barravento",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Boa Vista",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Brisas da Mata",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Candida de Morais",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Chacaras Maria Dilce",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Conjunto Primavera",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Empresarial",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Estrela D\"Alva",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Vila Finsocial",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Floresta",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Fonte das Aguas",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Green Park",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Belvedere",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Camargo",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Colorado",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba I",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba II",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba III",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba IV",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba V",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba VI",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba VII",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba VIII",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba IX",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Curitiba X",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim das Hortências",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim das Rosas",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Fonte Nova",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Helou",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Lago Azul",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Liberdade",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Nova Esperança",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Jardim Vista Bela",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Juscelino Kubitschek",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Juscelino Kubitschek II",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Malibu",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Mansões Paraíso",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Mansões Rosas de Ouro",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Marabá",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Morada do Sol",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Noroeste",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Novo Planalto",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Parque Aeronáutico Antônio Sebba Filho",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Parque Maracanã",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Parque Santa Rita",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Prive Norte",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Recanto do Bosque",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Parque Tremendão",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Parque Tremendão II",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Parque Tremendão III",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Paulo Pacheco",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Recreio Estrela D\"Alva",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Recreio Panorama",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Fortaleza",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Maringá",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Mirante",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "São Carlos",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "São Domingos",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "setor Estrela Dalva",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "São Joaquim",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Senador Albino Boaventura",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Solange Parque",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Solange Parque I",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Solange Parque II",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Solange Parque III",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Terra Nova",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Vila Mutirão",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Vila Mutirao I",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Vila Mutirao II",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Marata Araguaia",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Residencial Marata",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Chacaras Hellou",
+    "regiao": "NOROESTE"
+  },
+  {
+    "setor": "Alto da Gloria",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Areiao",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor Bela Vista",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor Bueno",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Jardim America",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Jardim das Esmeraldas",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Jardim Goias",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Jardim Santo Antonio",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Jardim Vitoria",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor Marista",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Nova SuiCa",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor Oeste",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Parque Amazonia",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor Pedro Ludovico",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Serrinha",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "setor dos Afonsos",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Americano do Brasil",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Divino Pai Eterno",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Maria Isabel",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Maria Jose",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila RedenCao",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Santa Efigenia",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Sao Joao",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Sao Tomaz",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "Vila Teofilo Neto",
+    "regiao": "SUL"
+  },
+  {
+    "setor": "14 Bis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Alto Boa Vista",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Ana Moraes",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Anicuns",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Araguaia Park",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Bairro das NaCoes",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Barra da Tijuca",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Beatriz Nascimento",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Bosque dos Buritis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Buena Vista",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Buena Vista I",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Buena Vista II",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Buena Vista III",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Buena Vista IV",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Capuava",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Capuava Residencial Prive",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Carla Cristina",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Carolina Parque",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Celina Parque",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Chacara Anhanguera",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Chacara Buritis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Chacara Maringa",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Chacara Santa Rita",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Chacara Sao Jose",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Cidade Verde",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Condominio do Lago",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Conjunto Anhanguera",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Conjunto Vera Cruz",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz I",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz II",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz III",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz IV",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz V",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Conjunto Vera Cruz VI",
+    "regiao": "OESTE",
+    "rota": "D"
+  },
+  {
+    "setor": "Coronel Alvaro Alves Junior",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Costa Verde",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Della Pena",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Dezopi",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Dom Rafael",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Goia",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Goia II",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Goia III",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Goia IV",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Goiânia Viva",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Goyaz Park",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Ipiranga",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Portal dos Ipes",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Aritana",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Bonanza",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Botanico",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Clarissa",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Corte Real",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim das Oliveiras",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim das Rosas",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Imperial",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Leblon",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Leblon II",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Marques de Abreu",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Mirabel",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Novo Petropolis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Real",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Sao Jose",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado I",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado II",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado III",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado IV",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado V",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado VI",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado VII",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado VIII",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado IX",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardins do Cerrado X",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Joao Bueno",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Vila Joao Vaz",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Junqueira",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Lorena Parque",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Lirios do Campo",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "London Park",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Luana Park",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Maysa",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Maysa Extensao",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Monte Pascoal",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Mundo Novo",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Mundo Novo II",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Mundo Novo III",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Nova Aurora",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Nunes de Morais",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Petropolis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Park Solar",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Bom Jesus",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Buriti",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Eldorado Oeste",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Industrial Joao Braz",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Industrial Paulista",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Mendanha",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Oeste",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Parque Paraiso",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Pilar dos Sonhos",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Ponta Negra",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Portal Anhanguera",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Quinta da Boa Vista",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Recanto das GarCas",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Recreio Sao Joaquim",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Mendanha",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Nossa Senhora Auxiliadora",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Noroeste",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Petropolis",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Portinari",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Primavera",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Real",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Residencial Santa Maria",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Rio Branco",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "San Marino",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Sao Bernardo",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Sao Francisco",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Sao Joaquim",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Sao Marcos",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Santa Rita",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Santos Dumont",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Serra Azul",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Solange Parque",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Solange Parque I",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Solar Ville",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Tempo Novo",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Tuzimoto",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Tropical Verde",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Tropical Ville",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Vila Regina",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Vila Rizzo",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Village Maringa",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Bella Vitta",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim das orquideas",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Jardim Pampulha",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "setor das nacoes extensao",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "Ytapua",
+    "regiao": "OESTE"
+  },
+  {
+    "setor": "agua Branca",
+    "regiao": "LESTE",
+    "rota": "Novo Mundo"
+  },
+  {
+    "setor": "Residencial Aldeia do Vale",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Alphaville Flamboyant",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Alphaville Araguaia",
+    "regiao": "",
+    "rota": "CONDOMINIOS"
+  },
+  {
+    "setor": "Arco Verde",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Aruana",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Aruana I",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Aruana II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Aruana III",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Aruana Park",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Bairro Feliz",
+    "regiao": "LESTE",
+    "rota": "Leste Universitario"
+  },
+  {
+    "setor": "Belo Horizonte",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Brisas do Cerrado",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Carlos de Freitas",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Clea Borges",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Conjunto Anhanguera",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Costa Paranhos",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Chacara Botafogo",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Chacara do Governador",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Colonia Santa Marta",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Conjunto CaiCara",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Conjunto Fabiana",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Conjunto Palmares",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Conjunto Riviera",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Goiânia Golfe Clube",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Grande Retiro",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Chacaras Retiro",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Housing Flamboyant",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Irisville",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Irisville I",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Irisville II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Irisville III",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Abaporu",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Atenas",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Bela Vista",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Brasil",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim California",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim California Industrial",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Conquista",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim da Luz",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim das Aroeiras",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Dom Fernando",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Dom Fernando I",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Dom Fernando II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Lajeado",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Maria Helena",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Mariliza",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Novo Mundo",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Paris",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Santa Cecilia",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Valencia",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Verona",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Vitoria",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardim Vitoria II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardins Milao",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Jardins Munique",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Lucy Pinheiro",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Mansoes Bernardo Sayao",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Mar del Plata",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Monte Verde",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Park Lozandes",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque Acalanto",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque Atheneu",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque das Amendoeiras",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque das Laranjeiras",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque Flamboyant",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque Santa Cruz",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Parque Santa Maria",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Paulo Estrela",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Portal do Sol",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Portal do Sol II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Portal Petropolis",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Prive dos Girassois",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "setor Recanto das Minas Gerais",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Recanto dos Buritis",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Residencial Havai",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Residencial Olinda",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Residencial Ouro Preto",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Residencial Portugues",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Rio Jordao",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Santa Barbara",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Santo Hilario",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Santo Hilario I",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Santo Hilario II",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Sao Francisco de Assis",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Sao Leopoldo",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Sao Silvestre",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Senador Paranhos",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Serra Park",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Sonho Dourado",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Sonho Verde",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Tupinamba dos Reis",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vale das Brisas",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vale do Araguaia",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Alto da Gloria",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Bandeirantes",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Concordia",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Legionarias",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Maria Luiza",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Martins",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Matilde",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Morais",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Pedroso",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Vila Romana",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Montes claros",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Fazenda Vau das Pombas",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Ville de France",
+    "regiao": "LESTE"
+  },
+  {
+    "setor": "Alphaville Residencial",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Alto Oriente",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Amin Camargo",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Ana Clara",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Andreia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Anhanguera",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Anhanguera I",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Anhanguera II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Aquarios",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Atibaia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Baliza",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Bonanza",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Bosque Sumare",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Brasil Central",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Cachoeira Dourada",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Campos Dourados",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Celina Park",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Center Ville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Conjunto das Esmeraldas",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Condominio das Esmeraldas",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Portal do Oriente",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Cristina",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Dona Ge",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Eldorado",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Eli Forte",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Faicalville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Faicalville II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Faicalville III",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Forteville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Garavelo",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Garavelo B",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Grajaú",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Granville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Alvaphille",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Atlantico",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Ana Lucia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Caravelas",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Eli Forte",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Europa",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Florenca",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Gardenia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Ipanema",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Itaipú",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Madri",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Planalto",
+    "regiao": "SUDOESTE",
+    "rota": "I"
+  },
+  {
+    "setor": "Jardim Presidente",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Sonia Maria",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Tancredo Neves",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardim Vila Boa",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Jardins Lisboa",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Linda Vista",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Madre Germana",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Madre Germana I",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Madre Germana II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Maria Celeste",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Marlene",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Moinho dos Ventos",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Monte Carlo",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Novo Horizonte",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Orientville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Anhanguera",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Oeste Industrial",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Parque Santa Rita",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Porto Seguro",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Prive AtlAntico",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Prive Ilhas do Caribe",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Real Conquista",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Recanto das Emas",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Recreio do Funcionario Publico",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Barcelona",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Canada",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Eldorado",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Escocia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Espanha",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Fidelis",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Flamingo",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Florida",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Itaipú",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Katia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Porto dourado I",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Porto dourado II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Porto dourado III",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Manhattan",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Sevilha",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Talisma",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Aquarios",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Aquarios II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Residencial Valencia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Rio Formoso",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Rio Verde",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Fe",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Fe I",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Fe II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Rita",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Rita V",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Santa Rita VII",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Salinos",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "setor dos Dourados",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Solar Bougainville",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Solar Santa Rita",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "setor Sudoeste",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Tres Marias",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Ulisses Guimaraes",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "setor Uniao",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vereda dos Buritis",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vereda dos Buritis II",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Adelia",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Alpes",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Alvorada",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Anchieta",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Bela",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Luciana",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Lucy",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Maua",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Rosa",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Rezende",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Santa Rita",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Vila Sao Paulo",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Village Green Park",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Village Santa Rita",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Village Santa Rita IV",
+    "regiao": "SUDOESTE"
+  },
+  {
+    "setor": "Condominio Anhanguera",
+    "regiao": "SUDOESTE"
+  }
 ]
